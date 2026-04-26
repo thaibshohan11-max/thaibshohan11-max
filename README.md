@@ -1,3 +1,5 @@
+
+
 # Hi there, I'm Thaib Shohan 👋
 
 ### 👨‍💻 Front-end Developer | Figma to HTML Specialist
@@ -15,20 +17,14 @@ I am a passionate Front-end Developer from Bangladesh. I love turning complex de
 ---
 
 ### 🚀 Tech Stack Icons
-<p align="left">
-<img src="https://skillicons.dev" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://vercel.app" />
-</p>
 
 ---
 
 ### 📫 How to reach me:
-- 🌐 Portfolio: [shohan.rf.gd](https://rf.gd)
+- 🌐 Portfolio: [shohan.rf.gd](https://shohan.rf.gd/)
 - 📧 Email: thaibshohan11@gmail.com
 - 🔵 Facebook: [Shohan710](https://facebook.com)
