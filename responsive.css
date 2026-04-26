@@ -1,0 +1,71 @@
+@media all and (max-width:950px){
+.middle-area
+{ width:95%;} 
+.logo-area {
+	width:35%;
+}
+
+.login-area {
+	width:65%;
+}
+.signup-left img{ 
+
+width:70;
+
+
+}
+
+}
+
+@media all and (max-width:738px) 
+{
+   .logo-area{ 
+	width:100%;
+	float:none;
+	margin-bottom:30px;
+	text-align:center;
+}
+
+   .login-area{ 
+	width:100%;
+	
+	float:none;
+}
+
+    .login-first{
+	float:none;
+}
+
+	.login-second{ 
+	 float:none;
+}
+
+	.login-submit{ 
+	 float:none;
+	
+}
+.login-area input[type="text"],
+.login-area input[type="password"]{
+	width:100%;
+}
+
+.signup-left{
+  width:100%;
+  float:none; 
+   
+}
+.signup-right { 
+width:100%;
+float:none;
+
+} 
+.signup-left img{ 
+
+display:none;
+
+
+} 
+.footer-content {
+width:95%;}
+
+}
