@@ -16,14 +16,14 @@ I am a passionate Front-end Developer from Bangladesh. I love turning complex de
 
 ### 🚀 Tech Stack Icons
 <p align="left">
-  <img src="https://skillicons.dev" />
+<img src="https://skillicons.dev" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://vercel.app" alt="Shohan's GitHub Stats" />
+<img src="https://vercel.app" />
 </p>
 
 ---
